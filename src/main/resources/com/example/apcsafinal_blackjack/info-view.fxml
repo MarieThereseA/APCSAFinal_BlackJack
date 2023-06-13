@@ -9,7 +9,7 @@
    <children>
       <ImageView fitHeight="600.0" fitWidth="900.0" pickOnBounds="true">
          <image>
-            <Image url="@../../../../../stuff/gradient.png" />
+            <Image url="@stuff/gradient.png" />
          </image>
       </ImageView>
    </children>

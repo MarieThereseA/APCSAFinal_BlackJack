@@ -17,9 +17,9 @@
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1">
    <children>
       <MediaView fitHeight="200.0" fitWidth="200.0" />
-      <ImageView fitHeight="600.0" fitWidth="900.0" pickOnBounds="true">
+      <ImageView fitHeight="609.0" fitWidth="900.0" layoutY="-1.0" pickOnBounds="true">
          <image>
-            <Image url="@../../../../../stuff/gradient.png" />
+            <Image url="file:/C:/Users/emate/IdeaProjects/APCSAFinal_BlackJack/src/stuff/gradient.png" />
          </image>
       </ImageView>
       <Circle layoutX="442.0" layoutY="200.0" radius="173.0" stroke="TRANSPARENT" strokeType="OUTSIDE">
@@ -50,7 +50,7 @@
       </Label>
       <ImageView fitHeight="270.0" fitWidth="386.0" layoutX="257.0" layoutY="110.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../../../../../stuff/blackjackPic.png" />
+            <Image url="file:/C:/Users/emate/IdeaProjects/APCSAFinal_BlackJack/src/stuff/blackjackPic.png" />
          </image>
       </ImageView>
       <Label layoutX="257.0" layoutY="401.0" text="Username">
@@ -58,7 +58,7 @@
             <Font size="26.0" />
          </font></Label>
       <TextField layoutX="379.0" layoutY="447.0" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="40.0" prefWidth="180.0" />
-      <Label layoutX="344.0" layoutY="446.0" text="ID">
+      <Label layoutX="344.0" layoutY="446.0" text="Id">
          <font>
             <Font size="29.0" />
          </font></Label>
